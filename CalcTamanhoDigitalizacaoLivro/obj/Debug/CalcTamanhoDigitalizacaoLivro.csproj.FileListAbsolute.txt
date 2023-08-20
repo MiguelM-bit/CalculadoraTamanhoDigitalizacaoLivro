@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\bin\Debug\CalcTamanhoDigitalizacaoLivro.exe.config
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\bin\Debug\CalcTamanhoDigitalizacaoLivro.exe
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\bin\Debug\CalcTamanhoDigitalizacaoLivro.pdb
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.Form1.resources
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.Properties.Resources.resources
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.exe
+C:\Users\User\source\repos\CalcTamanhoDigitalizacaoLivro\CalcTamanhoDigitalizacaoLivro\obj\Debug\CalcTamanhoDigitalizacaoLivro.pdb
